@@ -1,11 +1,13 @@
 ---
-title: "Manabendra Saharia"
+title: "Manabendra Saharia, Ph.D."
 date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/msaharia-photo.jpg"
 jobtitle: "Assistant Professor, Dept. of Civil Engineering"
+gsurl: "https://scholar.google.com/citations?user=XZQ3N6QAAAAJ&hl=en"
+cvurl: "CV/msaharia-cv.pdf"
 weburl: "https://msaharia.com/"
-linkedinurl: "https://www.linkedin.com/"
+linkedinurl: "https://www.linkedin.com/in/msaharia/"
 weight: 1
 ---
 
