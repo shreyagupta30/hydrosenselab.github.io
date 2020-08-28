@@ -15,4 +15,3 @@ Dr. Manabendra Saharia is currently an Assistant Professor in the [Department of
 
 Recruitment is on at all levels. Please check [this](https://hydrosenselab.github.io/join/).
 
-
