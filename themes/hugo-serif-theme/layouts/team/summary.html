@@ -7,10 +7,14 @@
   <div class="team-meta">
     <h2 class="team-name">{{ .Title }}</h2>
     <p class="team-description">{{ .Params.Jobtitle }}</p>
+    {{ if .Params.cvurl}}
+    <a target="_blank" href="{{ .Params.gsurl }}">Google Scholar</a> {{ end }}
+    {{ if .Params.gsurl}}
+    <a target="_blank" href="{{ .Params.cvurl }}">CV</a> {{ end }}
+    {{ if .Params.weburl }}
+    <a target="_blank" href="{{ .Params.weburl }}">Webpage</a> {{ end }}
     {{ if .Params.Linkedinurl }}
     <a target="_blank" href="{{ .Params.Linkedinurl }}">LinkedIn</a> {{ end }}
-    {{ if .Params.weburl }}
-    <a target="_blank" href="{{ .Params.weburl }}">Web</a> {{ end }}
   </div>
   <div class="team-content">{{ .Content }}</div>
 </div>
