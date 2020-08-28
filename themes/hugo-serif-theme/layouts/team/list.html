@@ -33,7 +33,7 @@
   <div class="row">
     {{ range .Pages }}
     {{ if eq .Weight 2 }}
-    <div class="col-12 col-md-6 mb-2 ">{{ .Render "summary" }}</div>
+    <div class="col-12 col-md-4 mb-2 ">{{ .Render "summary" }}</div>
     {{ end }}
     {{ end }}
   </div>
@@ -41,7 +41,7 @@
   <div class="row">
     {{ range .Pages }}
     {{ if eq .Weight 3 }}
-    <div class="col-12 col-md-6 mb-2 ">{{ .Render "summary" }}</div>
+    <div class="col-12 col-md-4 mb-2 ">{{ .Render "summary" }}</div>
     {{ end }}
     {{ end }}
   </div>
