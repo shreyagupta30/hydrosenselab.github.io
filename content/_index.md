@@ -11,8 +11,7 @@ intro_image_hide_on_mobile: true
 
 ## We seek to model and investigate the terrestrial hydrological cycle. Currently, we are developing techniques and systems for monitoring and forecasting natural hazards such as floods and droughts, with a special focus on the worst-affected regions of the world. The overarching goal of our research is to reduce the impact of natural disasters.
 
-Read more about our ongoing projects [here](./research)
-
+[Recruiting at all levels](./join) (Interns/PhD/Postdoctoral)
 
 Dr. Manabendra Saharia   
 Assistant Professor         
