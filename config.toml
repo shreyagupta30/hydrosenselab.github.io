@@ -17,11 +17,11 @@ publishDir = "docs"
     alt = "HydroSense Lab, IIT Delhi"
 
   [params.homepage_meta_tags]
-    meta_description = "HydroSense Lab of IIT Delhi is focused on developing techniques and systems for monitoring and mitigating natural disasters."
+    meta_description = "HydroSense Lab of IIT Delhi develops techniques and systems for monitoring and mitigating natural disasters."
     meta_og_title = "HydroSense Lab, IIT Delhi"
     meta_og_type = "website"
     meta_og_url = "https://hydrosenselab.github.io"
-    meta_og_description = "HydroSense Lab of IIT Delhi is focused on developing techniques and systems for monitoring and mitigating natural disasters."
+    meta_og_description = "HydroSense Lab of IIT Delhi develops techniques and systems for monitoring and mitigating natural disasters."
     meta_twitter_card = "summary"
     meta_twitter_site = "@m_saharia"
     meta_twitter_creator = "@m_saharia"
@@ -52,5 +52,10 @@ publishDir = "docs"
       name = "Join"
       url = "/join/"
       weight = 10
+
+  [[menu.main]]
+      name = "Contact"
+      url = "/contact/"
+      weight = 12
 
   # Footer Menu
