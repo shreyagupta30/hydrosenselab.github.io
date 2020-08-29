@@ -5,6 +5,6 @@ intro_image_absolute: false
 intro_image_hide_on_mobile: true
 ---
 
-# Research Projects
+# Research
 
 We are scaling up.
