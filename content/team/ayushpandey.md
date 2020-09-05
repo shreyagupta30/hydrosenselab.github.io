@@ -4,7 +4,7 @@ date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/ayush-photo.jpg"
 jobtitle: "Intern, IITD, Started Feb 2020"
-linkedinurl: "https://www.linkedin.com/"
+linkedinurl: "https://www.linkedin.com/xsmeke"
 weight: 3
 ---
 
