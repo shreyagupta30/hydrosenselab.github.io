@@ -1,7 +1,7 @@
 [
   {
-    "title": "Hydrologic Modeling",
-    "description": "Continental to local scales using land surface and routing models",
+    "title": "Hydrologic Modeling and Data Assimilation",
+    "description": "Continental to local scales using land surface and routing models. Combining observations with simulations to produce optimal states.",
     "image": "images/features/earthmodel.svg"
   },
   {
