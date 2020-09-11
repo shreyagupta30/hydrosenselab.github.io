@@ -5,13 +5,13 @@
     "image": "images/features/earthmodel.svg"
   },
   {
-    "title": "Statistics, Machine Learning, and Citizen Science",
-    "description": "Data-driven techniques to extract knowledge from structured and unstructured data.",
-    "image": "images/features/data.svg"
-  },
-  {
     "title": "Remote Sensing Applications",
     "description": "Satellite and radar precipitation, inundation mapping, etc.",
     "image": "images/features/satellite.svg"
+  },
+  {
+    "title": "Statistics, Machine Learning, and Citizen Science",
+    "description": "Data-driven techniques to extract knowledge from structured and unstructured data.",
+    "image": "images/features/data.svg"
   }
 ]
