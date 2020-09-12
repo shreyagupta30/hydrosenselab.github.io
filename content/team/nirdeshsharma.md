@@ -8,6 +8,5 @@ weburl: "https://www.researchgate.net/profile/Nirdesh_Sharma3"
 linkedinurl: "https://www.linkedin.com/in/nirdesh-kumar-sharma-072540122/"
 weight: 2
 ---
-Nirdesh Sharma has a bachelors and masters degree in civil engineering. His broad interests include Active and Passive Microwave Remote Sensing,
-Hydrology and Extereme Events.
+Nirdesh Sharma has a bachelor's degree in civil engineering. He was a DAAD-KOSPIE scholar at TU-Darmstadt during his M.Tech.  His research interests include hydrological modelling, Active and Passive microwave remote sensing.
 
