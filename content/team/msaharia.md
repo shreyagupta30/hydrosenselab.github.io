@@ -11,7 +11,7 @@ linkedinurl: "https://www.linkedin.com/in/msaharia/"
 weight: 1
 ---
 
-Dr. Manabendra Saharia is currently an Assistant Professor in the [Department of Civil Engineering](http://civil.iitd.ac.in/index.php?lmenuid=faculty) at the Indian Institute of Technology Delhi. Previously, he worked in the hydrology labs of [NASA Goddard Space Flight Center](https://science.gsfc.nasa.gov/earth/hydrology/) and [National Center for Atmospheric Research](https://ncar.github.io/hydrology/). Since 2020, he has started setting up the HydroSense Lab at IITD, primarily dedicated to the modeling and mitigation of water-related hazards.
+Dr. Manabendra Saharia is an Assistant Professor in the [Department of Civil Engineering](http://civil.iitd.ac.in/index.php?lmenuid=faculty) at the Indian Institute of Technology Delhi. Previously, he worked in the hydrology labs of [NASA Goddard Space Flight Center](https://science.gsfc.nasa.gov/earth/hydrology/) and [National Center for Atmospheric Research](https://ncar.github.io/hydrology/). He is primarily interested in developing techniques and systems for monitoring, forecasting, and mitigating water-related natural hazards, with a special focus on the worst-affected regions of the world. Since 2020, he has started setting up the HydroSense Lab at IITD, primarily dedicated to the modeling and mitigation of water-related hazards.
 
 
 
