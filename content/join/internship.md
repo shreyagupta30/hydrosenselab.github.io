@@ -33,9 +33,9 @@ Our lab is committed to diversity and inclusion in every aspect.
 
 Please send me your CV if you are interested.
 
-Regards, 
-Manabendra Saharia, Ph.D. 
-Assistant Professor         
+Regards,   
+Manabendra Saharia, Ph.D.   
+Assistant Professor           
 Department of Civil Engineering  
 Indian Institute of Technology Delhi  
 New Delhi, India 110016   

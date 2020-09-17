@@ -21,9 +21,9 @@ IIT Delhi invites applications from qualified Indian Nationals, Persons of India
 
 You are welcome to contact me if you are close to receiving or have received your PhD. 
 
-Regards, 
-Manabendra Saharia, Ph.D. 
-Assistant Professor         
+Regards,   
+Manabendra Saharia, Ph.D.   
+Assistant Professor            
 Department of Civil Engineering  
 Indian Institute of Technology Delhi  
 New Delhi, India 110016   
