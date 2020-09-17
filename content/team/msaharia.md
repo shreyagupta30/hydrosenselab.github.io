@@ -5,7 +5,7 @@ draft: false
 image: "images/team/msaharia-photo.jpg"
 jobtitle: "Assistant Professor, Dept. of Civil Engineering"
 gsurl: "https://scholar.google.com/citations?user=XZQ3N6QAAAAJ&hl=en"
-cvurl: "/CV/msaharia-cv.pdf"
+cvurl: "/CV/msaharia_cv.pdf"
 weburl: "https://msaharia.com/"
 linkedinurl: "https://www.linkedin.com/in/msaharia/"
 weight: 1
