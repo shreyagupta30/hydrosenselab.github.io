@@ -1,16 +1,14 @@
 ---
-title: "Postdoctoral Researcher"
+title: "Postdoctoral Research"
 date: 2020-07-31T00:27:55+05:30
 ---
 
-If you are interested in working with us for your postdoctoral research, please do contact me.
+If you are interested in working with us for your postdoctoral research, please do contact me.If our interests match, I can support your application for:
 
-There are multiple ways to do this:
+* [IIT Delhi Postdoctoral Fellowship](http://old.iitd.ac.in/content/post-doctoral-fellows-pdf).
+* [National Postdoctoral Fellowship](http://www.serb.gov.in/npdf.php).
 
-* Supporting your application for an [IIT Delhi Postdoctoral Fellowship](http://old.iitd.ac.in/content/post-doctoral-fellows-pdf).
-* Supporting your application for the [National Postdoctoral Fellowship](http://www.serb.gov.in/npdf.php).
-
-# Positions
+# IITD Postdoctoral Fellowship Positions
 IIT Delhi invites applications from qualified Indian Nationals, Persons of Indian Origin (PIOs) and Overseas Citizens of India (OCIs) for the Post Doctoral Fellows (PDF) in the various Departments/Centres/Schools (in the fields mentioned alongwith them). These fellowships are available for a maximum period of three years. 
 
 # Who we are
