@@ -11,7 +11,7 @@ intro_image_hide_on_mobile: true
 
 ## We seek to simulate and investigate the terrestrial hydrological cycle using physics-based and data-driven models. Currently, we are interested in developing techniques and systems for monitoring and forecasting water-related natural hazards, with a special focus on the worst-affected regions of the world. The overarching goal of our research is to develop solutions that reduce the impact of natural disasters.
 
-[Recruiting at all levels](./join) (Interns/PhD/Postdoctoral)
+[Recruiting at all levels](./join) (Interns/PhD/Postdoctoral)  
 [Meet the Team](./team)
 
 Dr. Manabendra Saharia   
