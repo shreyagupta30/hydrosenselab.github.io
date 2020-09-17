@@ -11,6 +11,7 @@ The overarching goal of our research is to develop solutions that reduce the imp
 
 	- Land surface/hydrologic modeling
 	- Statistics and machine Learning
+	- Data assimilation
 	- Hydrologic extremes, Flood and drought forecasting
 	- Radar and satellite precipitation
 	- Remote sensing applications in hydrology
