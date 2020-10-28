@@ -10,6 +10,10 @@ INDRA Reporter is a free app for crowdsourcing reports on weather and water-rela
 
 Android: https://play.google.com/store/apps/details?id=com.indra
 
+Dashboard: https://indra.iitd.ac.in/
+
+Work in Progress.
+
 ![test](/images/INDRA-banner.png)
 
 More to be added soon.
