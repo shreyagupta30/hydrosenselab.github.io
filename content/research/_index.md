@@ -17,10 +17,11 @@ The overarching goal of our research is to understand the water cycle and develo
 	- Remote sensing applications in hydrology
 	- Crowdsourcing
 
-We have active on-going collaborations with Scientists and Professors
+We have active on-going collaborations with Scientists and Professors from:
 
-- NASA Goddard Space Flight Center 
-- National Center for Atmospheric Research (NCAR)
-- University of Oklahoma/National Weather Center
-- Indian Meteorological Department
-- Department colleagues of IIT Delhi and other IITs
+	- NASA Goddard Space Flight Center 
+	- National Center for Atmospheric Research (NCAR)
+	- University of Oklahoma/National Weather Center
+	- UC Boulder
+	- Indian Meteorological Department
+	- Department colleagues of IIT Delhi and other IITs
