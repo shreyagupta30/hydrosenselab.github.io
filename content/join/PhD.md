@@ -1,10 +1,9 @@
 ---
 title: "PhD at IIT Delhi"
 ---
-
 [New!] I am looking for 2 PhD students in Water Resources Engineering for the August 2021 intake at IIT Delhi.
 
-If any or all of the following things interest you, we would love to hear from you -
+If any or all of the following things interest you, I would love to hear from you -
 
 - Land surface/hydrologic modeling
 - Statistics and machine Learning, Data assimilation
@@ -16,13 +15,12 @@ You are also welcome to talk to any of the existing PhD students to ascertain if
 
 Please Email me your CV and interests.
 
-Regards, 
-Manab
-------------------------------------------------
+Regards,
 Manabendra Saharia, Ph.D.
 Assistant Professor
 Department of Civil Engineering
 Indian Institute of Technology Delhi
 New Delhi, India 110016
 Office: +91-011-26591260
-------------------------------------------------
+
+Email: msaharia@iitd.ac.in
