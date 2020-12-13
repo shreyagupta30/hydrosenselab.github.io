@@ -15,12 +15,12 @@ Students with programming experience are highly encouraged. You are also welcome
 
 Please Email me your CV and interests.
 
-Regards,
-Manabendra Saharia, Ph.D.
-Assistant Professor
-Department of Civil Engineering
-Indian Institute of Technology Delhi
-New Delhi, India 110016
-Office: +91-011-26591260
+Regards,  
+Manabendra Saharia, Ph.D.    
+Assistant Professor  
+Department of Civil Engineering  
+Indian Institute of Technology Delhi  
+New Delhi, India 110016  
+Office: +91-011-26591260  
 
 Email: msaharia@iitd.ac.in
