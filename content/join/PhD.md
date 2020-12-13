@@ -11,7 +11,7 @@ If any or all of the following things interest you, I would love to hear from yo
 - Remote sensing applications in hydrology
 - Climate change
 
-You are also welcome to talk to any of the existing PhD students to ascertain if we are a good fit for you. 
+Students with programming experience are highly encouraged. You are also welcome to talk to any of the existing PhD students to ascertain if we are a good fit for you. 
 
 Please Email me your CV and interests.
 
