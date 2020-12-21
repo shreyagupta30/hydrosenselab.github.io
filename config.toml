@@ -17,7 +17,7 @@ publishDir = "docs"
     alt = "HydroSense Lab, IIT Delhi"
 
   [params.homepage_meta_tags]
-    meta_description = "The HydroSense Lab of IIT Delhi develops techniques and systems for monitoring and mitigating natural disastersi. Led by Dr. Manabendra Saharia."
+    meta_description = "The HydroSense Lab of IIT Delhi develops techniques and systems for monitoring and mitigating natural disasters. Led by Dr. Manabendra Saharia."
     meta_og_title = "HydroSense Lab, IIT Delhi"
     meta_og_type = "website"
     meta_og_url = "https://hydrosenselab.github.io"
