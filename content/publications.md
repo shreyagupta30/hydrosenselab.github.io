@@ -11,8 +11,8 @@ menu: 'main'
 
 - Saharia, D., Shilpa Manandhar, Yee Hui Lee, Stefan Winkler, Soumyabrata Dev, and Saharia, M. "Precipitation Estimates from Satellite and Ground-based Sensors" , 2020. [Under review]
 
-- Saharia, M., Kirstetter, P.E., Vergara, H., Gourley, J.J., Hong, Y., "Impact of rainfall spatial variabilityon flash flood severity", 2020. [Under review]
+- Saharia, M., Kirstetter, P.E., Vergara, H., Gourley, J.J., Hong, Y., "Impact of rainfall spatial variability on flash flood severity", 2020. [Under review]
 
-- Kuntla, S. K.Saharia, M., Kirstetter, P.E., "Characterization of Floods at a Global Scale", 2020. [Under review]
+- Kuntla, S. K., Saharia, M., Kirstetter, P.E., "Characterization of Floods at a Global Scale", 2020. [Under review]
 
-- Potdar, A. S., Kirstetter, P.E., Wood, D., andSaharia, M., 2020."Towards Predicting Flood PeakDischarge using Machine Learning ". [Under review]
+- Potdar, A. S., Kirstetter, P.E., Wood, D., and Saharia, M., 2020."Towards Predicting Flood Peak Discharge using Machine Learning ". [Under review]
