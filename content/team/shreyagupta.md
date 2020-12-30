@@ -5,7 +5,7 @@ draft: false
 image: "images/team/shreya-photo.jpg"
 jobtitle: "BTP, Thapar University, June 2020"
 linkedinurl: "https://www.linkedin.com/"
-weight: 3
+
 ---
 
 Data visualization, Modeling
