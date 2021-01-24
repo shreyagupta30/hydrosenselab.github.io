@@ -20,11 +20,13 @@
     bottom: -60px;
     left: -60px;
     width: 800px;
+    top: 20px;
   }
   @include media-breakpoint-up(xl) {
     bottom: -100px;
     left: -70px;
     width: 850px;
+    top: 20px;
   }
 }
 .intro-image-hide-mobile {
