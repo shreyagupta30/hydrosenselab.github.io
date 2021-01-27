@@ -17,4 +17,4 @@ menu: 'main'
 
 - Potdar, A. S., Kirstetter, P.E., Wood, D., and Saharia, M., 2020."Towards Predicting Flood Peak Discharge using Machine Learning". 
 
-- Newman, A.J., Stone, A.G. , \textbf{Saharia, M. }, Holman, K.D. , Addor, N., and Clark, M., 2021. "Identifying Sensitivities in Flood Frequency Analyses using a Stochastic Hydrologic Modeling System." 
+- Newman, A.J., Stone, A.G. , Saharia, M. , Holman, K.D. , Addor, N., and Clark, M., 2021. "Identifying Sensitivities in Flood Frequency Analyses using a Stochastic Hydrologic Modeling System." 
