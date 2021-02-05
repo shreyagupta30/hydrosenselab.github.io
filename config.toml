@@ -49,7 +49,7 @@ publishDir = "docs"
       weight = 8
 
   [[menu.main]]
-      name = "Achievements"
+      name = "News and Achievements"
       url = "/achievements/"
       weight = 10
 
