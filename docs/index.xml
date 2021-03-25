@@ -6,7 +6,7 @@
     <description>Recent content in Home on HydroSense Lab, IIT Delhi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Jul 2020 01:46:54 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 25 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://hydrosenselab.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -162,6 +162,15 @@
       
       <guid>https://hydrosenselab.github.io/team/yashgupta/</guid>
       <description>Precipitation.</description>
+    </item>
+    
+    <item>
+      <title>Datasets</title>
+      <link>https://hydrosenselab.github.io/research/datasets/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hydrosenselab.github.io/research/datasets/</guid>
+      <description>We have developed various datasets for our research activities. As much as we can, we release them to the public in the spirit of Open Science/Open Data.</description>
     </item>
     
     <item>
