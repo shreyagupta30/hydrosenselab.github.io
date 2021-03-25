@@ -4,4 +4,4 @@ date: 2021-03-25
 featured: false
 ---
 
-These datasets are developed in the HydroSense Lab and released to the public in in the spirit of Open Science/Open Data. 
+We have developed various datasets for our research activities. As much as we can, we release them to the public in the spirit of Open Science/Open Data. 
