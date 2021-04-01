@@ -4,6 +4,7 @@ intro_image: images/watercycleblock.jpg
 intro_image_absolute: false
 intro_image_hide_on_mobile: true
 ---
+# Research @HydroSense
 
 The overarching goal of our research is to understand the water cycle and develop solutions that reduce the impact of natural disasters. Our research seeks to disentangle the complex relationships between geomorphology, climate, precipitation, and runoff generation using physics-based and data-driven models. Our interests include, but are not limited to:
 
@@ -13,10 +14,11 @@ The overarching goal of our research is to understand the water cycle and develo
 	- Remote sensing applications in hydrology
 	- Citizen Science
 
-We have active on-going collaborations with Scientists and Professors from:
-
+We have active and on-going collaborations with Scientists and Professors from: 
+  
 	- NASA Goddard Space Flight Center 
 	- National Center for Atmospheric Research (NCAR)
 	- University of Oklahoma/National Weather Center
 	- UC Boulder
 	- Indian Meteorological Department
+
