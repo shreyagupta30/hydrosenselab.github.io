@@ -6,7 +6,7 @@ intro_image_hide_on_mobile: true
 ---
 # Research @HydroSense
 
-The overarching goal of our research develops solutions for effective management of water resources and reducing the impact of natural hazards. Our research seeks to disentangle the complex relationships between geomorphology, climate, precipitation, and runoff generation using physics-based and data-driven models. Our interests include, but are not limited to:
+The goal of our research is to develop solutions for effectively managing water resources and reducing the impact of natural hazards. Our research seeks to disentangle the complex relationships between geomorphology, climate, precipitation, and runoff generation using physics-based and data-driven models. Our interests include, but are not limited to:
 
 	- Land surface/hydrologic modeling
 	- Statistics and machine Learning, Data Assimilation

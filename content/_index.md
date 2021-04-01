@@ -7,7 +7,7 @@ intro_image_hide_on_mobile: true
 
 # HydroSense Lab, IIT Delhi
 
-The goal of our research is to develop solutions for effective management of water resources and reducing the impact of natural disasters. We simulate and investigate the terrestrial hydrological cycle using physics-based and data-driven models. We also develop systems for monitoring and mitigating water-related natural hazards such as floods and droughts, with a special focus on the worst-affected regions of the world. 
+The goal of our research is to develop solutions for effectively managing water resources and reducing the impact of natural hazards. We do so by simulating and investigating the terrestrial hydrological cycle using physics-based and data-driven models. We also develop systems for monitoring and mitigating water-related natural hazards such as floods and droughts, with a special focus on the worst-affected regions of the world. 
 
 [Recruiting at all levels](./join) (Interns/PhD/Postdoctoral)  
 
