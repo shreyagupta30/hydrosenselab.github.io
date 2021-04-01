@@ -6,30 +6,23 @@
 <div class="intro">
   <div class="container">
     <div class="row justify-content-start">
-      <div class="col-12 col-md-10 col-lg-9 order-2 order-md-1">
+      <div class="col-12 col-md-12 col-lg-12">
         {{ .Content }}
       </div>
-      {{ if .Params.intro_image }}
-      <div class="col-12 col-md-3 col-sm-4 order-1 order-md-2 position-relative">
-        <img
-          class="intro-image{{ if .Params.intro_image_absolute }} intro-image-absolute{{ end }}{{ if .Params.intro_image_hide_on_mobile }} intro-image-hide-mobile{{ end }}"
-          src="{{ .Params.intro_image | relURL }}" />
-      </div>
-      {{ end }}
     </div>
   </div>
 </div>
 
 <div class="container pt-6 pb-md-6">
-  <h1> Faculty and Staff </h1>
+  <h1> Faculty </h1>
   <div class="row">
     {{ range .Pages }}
     {{ if eq .Weight 1 }}
-    <div class="col-12 col-md-6 mb-2 ">{{ .Render "summary"}}</div>
+    <div class="col-12 col-md-12 mb-2 ">{{ .Render "summary"}}</div>
     {{ end }}
     {{ end }}
   </div>
-  <h1> Graduate Students </h1>
+  <h1> Graduate Students and Project Staff </h1>
   <div class="row">
     {{ range .Pages }}
     {{ if eq .Weight 2 }}
