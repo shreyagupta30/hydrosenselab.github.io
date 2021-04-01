@@ -45,5 +45,13 @@
     {{ end }}
     {{ end }}
   </div>
+  <h1> Alumni </h1>
+  <div class="row">
+    {{ range .Pages }}
+    {{ if eq .Weight 4 }}
+    <div class="col-12 col-md-6 mb-6 ">{{ .Render "summary" }}</div>
+    {{ end }}
+    {{ end }}
+  </div>
 </div>
 {{ end }}
