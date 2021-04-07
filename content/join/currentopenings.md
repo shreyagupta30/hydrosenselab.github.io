@@ -2,10 +2,11 @@
 title: "Current Openings"
 date: 2020-07-31T00:27:55+05:30
 ---
-
 [Updated: April 2021]
 
-These jobs are currently open.
+We recognize that diverse teams are crucial for driving scientific excellence and innovation. We strive to develop a positive and welcoming environment of professional courtesy, kindness, and collaboration. Meet the HydroSense team [here](../team)
+
+These jobs are currently open. We are always looking for skilled people to join us as colleagues!
 
 ## Position 1: Junior Research Fellow (JRF) 
 - Project: "Making local knowledge matter for landslides and flooding preparedness" - Joint Project with University College London.
