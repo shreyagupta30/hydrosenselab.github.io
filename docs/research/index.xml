@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research on HydroSense Lab, IIT Delhi</title>
-    <link>https://hydrosenselab.github.io/research/</link>
+    <link>https://hydrosenselab.iitd.ac.in/research/</link>
     <description>Recent content in Research on HydroSense Lab, IIT Delhi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 25 Mar 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://hydrosenselab.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hydrosenselab.iitd.ac.in/research/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Public Resources</title>
-      <link>https://hydrosenselab.github.io/research/publicresources/</link>
+      <link>https://hydrosenselab.iitd.ac.in/research/publicresources/</link>
       <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://hydrosenselab.github.io/research/publicresources/</guid>
+      <guid>https://hydrosenselab.iitd.ac.in/research/publicresources/</guid>
       <description>We believe that anyone around the world should be able to use and extend our work. We strive to make the tools and datasets we develop freely available to the public in the spirit of Open Science.
 Freely-available Datasets  Flashiness in the United States India Flood Inventory  [PAGE UNDER CONSTRUCTION]</description>
     </item>
     
     <item>
       <title>Flashiness in the United States</title>
-      <link>https://hydrosenselab.github.io/research/flashiness-us/</link>
+      <link>https://hydrosenselab.iitd.ac.in/research/flashiness-us/</link>
       <pubDate>Fri, 31 Jul 2020 01:46:54 +0530</pubDate>
       
-      <guid>https://hydrosenselab.github.io/research/flashiness-us/</guid>
+      <guid>https://hydrosenselab.iitd.ac.in/research/flashiness-us/</guid>
       <description>Mapping flood flood severity in the United States using data-driven techniques.</description>
     </item>
     
     <item>
       <title>India Flood Inventory</title>
-      <link>https://hydrosenselab.github.io/research/india-flood-inventory/</link>
+      <link>https://hydrosenselab.iitd.ac.in/research/india-flood-inventory/</link>
       <pubDate>Fri, 31 Jul 2020 01:46:54 +0530</pubDate>
       
-      <guid>https://hydrosenselab.github.io/research/india-flood-inventory/</guid>
+      <guid>https://hydrosenselab.iitd.ac.in/research/india-flood-inventory/</guid>
       <description>We are building a historical flood observation database over India.
 More later.</description>
     </item>
     
     <item>
       <title>INDRA Crowdsourcing Framework</title>
-      <link>https://hydrosenselab.github.io/research/indra/</link>
+      <link>https://hydrosenselab.iitd.ac.in/research/indra/</link>
       <pubDate>Fri, 31 Jul 2020 01:46:54 +0530</pubDate>
       
-      <guid>https://hydrosenselab.github.io/research/indra/</guid>
+      <guid>https://hydrosenselab.iitd.ac.in/research/indra/</guid>
       <description>INDRA Reporter is a free app for crowdsourcing reports on weather and water-related natural hazards such as floods, heavy rains, landslides etc. from Citizen Scientists. This app is a part of Project INDRA, which is a comprehensive multi-platform framework using apps, chat bots, web forms etc.
 Android: https://play.google.com/store/apps/details?id=com.indra
 Dashboard: https://indra.iitd.ac.in/
