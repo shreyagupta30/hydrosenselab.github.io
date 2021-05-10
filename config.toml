@@ -1,4 +1,4 @@
-baseURL = "https://hydrosenselab.iitd.ac.in/"
+baseURL = "https://hydrosense.iitd.ac.in/"
 languageCode = "en-us"
 title = "HydroSense Lab, IIT Delhi"
 themesDir = "./themes"
