@@ -11,4 +11,4 @@ cd docs && git add --all && git commit -m "Publishing to Github Pages (publish.s
 
 git push
 
-scp -r docs/* msaharia@hydrosense.iitd.ac.in:/var/www/hydrosense/https/html/ 
+scp -r docs/* msaharia@hydrosense.iitd.ac.in:/var/www/hydrosense/https/html
