@@ -1,3 +1,4 @@
 resources/*
 static/.DS_Store
 .DS_Store
+publish.sh
