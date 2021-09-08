@@ -24,4 +24,4 @@ Office meetings suspended indefinitely due to Covid-19.
 | Thursday  | 8:30am - 5:00pm |
 | Friday    | 8:30am - 5:00pm |
 | Saturday  | Closed          |
-| Saturday  | Closed          |
+| Sunday    | Closed          |
