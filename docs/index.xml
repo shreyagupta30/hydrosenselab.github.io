@@ -6,7 +6,7 @@
     <description>Recent content in Home on HydroSense Lab, IIT Delhi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Sep 2021 10:47:58 +1000</lastBuildDate>
     
 	<atom:link href="https://hydrosense.iitd.ac.in/index.xml" rel="self" type="application/rss+xml" />
     
@@ -21,12 +21,30 @@
     </item>
     
     <item>
+      <title>Arunik Baruah</title>
+      <link>https://hydrosense.iitd.ac.in/team/arunikbaruah/</link>
+      <pubDate>Tue, 07 Sep 2021 10:47:58 +1000</pubDate>
+      
+      <guid>https://hydrosense.iitd.ac.in/team/arunikbaruah/</guid>
+      <description>Arunik Baruah has an Integrated M.Tech degree in Geoinformatics from Central University of Jharkhand. His research interests include remote sensing, time series analysis and microclimate.</description>
+    </item>
+    
+    <item>
+      <title>Rasheeda Soudagar</title>
+      <link>https://hydrosense.iitd.ac.in/team/rasheedasoudagar/</link>
+      <pubDate>Mon, 07 Sep 2020 10:47:58 +1000</pubDate>
+      
+      <guid>https://hydrosense.iitd.ac.in/team/rasheedasoudagar/</guid>
+      <description>LATER</description>
+    </item>
+    
+    <item>
       <title>Anagha P.</title>
       <link>https://hydrosense.iitd.ac.in/team/anaghap/</link>
       <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
       
       <guid>https://hydrosense.iitd.ac.in/team/anaghap/</guid>
-      <description>LATER</description>
+      <description>Anagha P has completed B.Tech in Computer Science and Engineering from Govt. Engineering College Wayanad and M.Tech in Geoinformatics from Indian Institute of Space Science and Technology, Trivandrum. She has got one-year experience as a Senior Data Analyst in Subex, Bengaluru. Her research interests include Deep Learning, Flood Forecasting, Optical and Microwave Image Processing.</description>
     </item>
     
     <item>
@@ -39,12 +57,12 @@
     </item>
     
     <item>
-      <title>Khusboo Alvi</title>
-      <link>https://hydrosense.iitd.ac.in/team/khusbooalvi/</link>
+      <title>Gautam Kunwar</title>
+      <link>https://hydrosense.iitd.ac.in/team/gautamkunwar/</link>
       <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
       
-      <guid>https://hydrosense.iitd.ac.in/team/khusbooalvi/</guid>
-      <description>LATER</description>
+      <guid>https://hydrosense.iitd.ac.in/team/gautamkunwar/</guid>
+      <description>Floods and machine learning</description>
     </item>
     
     <item>
@@ -71,16 +89,61 @@
       <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
       
       <guid>https://hydrosense.iitd.ac.in/team/saikiran/</guid>
+      <description>Sai Kiran Kuntla is a Research Scholar in the Dept. of Civil Engineering at IIT Delhi. He holds a Bachelor&amp;rsquo;s degree in Civil Engineering and a Master&amp;rsquo;s degree in GeoInformatics and Surveying Technology from JNTU Hyderabad. Broadly his research interests include analyzing the physical process of floods, real-time flood monitoring, and interactions between floods and society.</description>
+    </item>
+    
+    <item>
+      <title>Shreya Gupta</title>
+      <link>https://hydrosense.iitd.ac.in/team/shreyagupta/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://hydrosense.iitd.ac.in/team/shreyagupta/</guid>
+      <description>Data visualization, Modeling</description>
+    </item>
+    
+    <item>
+      <title>Ayush Prasad</title>
+      <link>https://hydrosense.iitd.ac.in/team/ayushprasad/</link>
+      <pubDate>Tue, 07 Sep 2021 10:47:58 +1000</pubDate>
+      
+      <guid>https://hydrosense.iitd.ac.in/team/ayushprasad/</guid>
       <description>LATER</description>
     </item>
     
     <item>
-      <title>Avish Jain</title>
-      <link>https://hydrosense.iitd.ac.in/team/avishjain/</link>
-      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      <title>Deepank Kumar</title>
+      <link>https://hydrosense.iitd.ac.in/team/deepankkumar/</link>
+      <pubDate>Tue, 07 Sep 2021 10:47:58 +1000</pubDate>
       
-      <guid>https://hydrosense.iitd.ac.in/team/avishjain/</guid>
-      <description>Data analysis, deep learning, social media analytics</description>
+      <guid>https://hydrosense.iitd.ac.in/team/deepankkumar/</guid>
+      <description>LATER</description>
+    </item>
+    
+    <item>
+      <title>Kaushal Sharma</title>
+      <link>https://hydrosense.iitd.ac.in/team/kaushalsharma/</link>
+      <pubDate>Tue, 07 Sep 2021 10:47:58 +1000</pubDate>
+      
+      <guid>https://hydrosense.iitd.ac.in/team/kaushalsharma/</guid>
+      <description>LATER</description>
+    </item>
+    
+    <item>
+      <title>Rajdeep Pandey</title>
+      <link>https://hydrosense.iitd.ac.in/team/rajdeeppandey/</link>
+      <pubDate>Tue, 07 Sep 2021 10:47:58 +1000</pubDate>
+      
+      <guid>https://hydrosense.iitd.ac.in/team/rajdeeppandey/</guid>
+      <description>LATER</description>
+    </item>
+    
+    <item>
+      <title>Rohit Garga</title>
+      <link>https://hydrosense.iitd.ac.in/team/rohitgarga/</link>
+      <pubDate>Tue, 07 Sep 2021 10:47:58 +1000</pubDate>
+      
+      <guid>https://hydrosense.iitd.ac.in/team/rohitgarga/</guid>
+      <description>LATER</description>
     </item>
     
     <item>
@@ -93,12 +156,21 @@
     </item>
     
     <item>
-      <title>Gautam Kunwar</title>
-      <link>https://hydrosense.iitd.ac.in/team/gautamkunwar/</link>
+      <title>Adil Bin Bhutto</title>
+      <link>https://hydrosense.iitd.ac.in/team/adilbinbhutto/</link>
       <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
       
-      <guid>https://hydrosense.iitd.ac.in/team/gautamkunwar/</guid>
-      <description>Floods and machine learning</description>
+      <guid>https://hydrosense.iitd.ac.in/team/adilbinbhutto/</guid>
+      <description>Development of INDRA Dashboard</description>
+    </item>
+    
+    <item>
+      <title>Avish Jain</title>
+      <link>https://hydrosense.iitd.ac.in/team/avishjain/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://hydrosense.iitd.ac.in/team/avishjain/</guid>
+      <description>Data analysis, deep learning, social media analytics</description>
     </item>
     
     <item>
@@ -108,6 +180,15 @@
       
       <guid>https://hydrosense.iitd.ac.in/team/jatinahuja/</guid>
       <description>Streamflow variability</description>
+    </item>
+    
+    <item>
+      <title>Khusboo Alvi</title>
+      <link>https://hydrosense.iitd.ac.in/team/khusbooalvi/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://hydrosense.iitd.ac.in/team/khusbooalvi/</guid>
+      <description>LATER</description>
     </item>
     
     <item>
@@ -138,30 +219,12 @@
     </item>
     
     <item>
-      <title>Shreya Gupta</title>
-      <link>https://hydrosense.iitd.ac.in/team/shreyagupta/</link>
-      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
-      
-      <guid>https://hydrosense.iitd.ac.in/team/shreyagupta/</guid>
-      <description>Data visualization, Modeling</description>
-    </item>
-    
-    <item>
       <title>Yash Gupta</title>
       <link>https://hydrosense.iitd.ac.in/team/yashgupta/</link>
       <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
       
       <guid>https://hydrosense.iitd.ac.in/team/yashgupta/</guid>
       <description>Precipitation.</description>
-    </item>
-    
-    <item>
-      <title>Adil Bin Bhutto</title>
-      <link>https://hydrosense.iitd.ac.in/team/adilbinbhutto/</link>
-      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
-      
-      <guid>https://hydrosense.iitd.ac.in/team/adilbinbhutto/</guid>
-      <description>Development of INDRA Dashboard</description>
     </item>
     
     <item>
@@ -251,7 +314,7 @@ Department of Civil Engineering
 Indian Institute of Technology (IIT) Delhi
 Hauz Khas, New Delhi - 110016, India.
 Office meetings suspended indefinitely due to Covid-19.
-   Day Available Hours     Monday 8:30am - 5:00pm   Tuesday 8:30am - 5:00pm   Wednesday 8:30am - 5:00pm   Thursday 8:30am - 5:00pm   Friday 8:30am - 5:00pm   Saturday Closed   Saturday Closed    </description>
+   Day Available Hours     Monday 8:30am - 5:00pm   Tuesday 8:30am - 5:00pm   Wednesday 8:30am - 5:00pm   Thursday 8:30am - 5:00pm   Friday 8:30am - 5:00pm   Saturday Closed   Sunday Closed    </description>
     </item>
     
     <item>
