@@ -5,7 +5,7 @@ draft: false
 image: "images/team/default.svg"
 jobtitle: "B.Tech. Project, IITD, 2020-21"
 linkedinurl: "https://www.linkedin.com/"
-weight: 3
+weight: 4
 ---
 
 Precipitation.

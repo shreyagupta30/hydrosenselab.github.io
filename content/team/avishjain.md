@@ -5,7 +5,7 @@ draft: false
 image: "images/team/avishjain-photo.jpg"
 jobtitle: "Intern, IITD, 2020-21"
 linkedinurl: "https://www.linkedin.com/"
-weight: 3
+weight: 4
 ---
 
 Data analysis, deep learning, social media analytics
