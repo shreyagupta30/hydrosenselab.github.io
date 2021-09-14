@@ -39,10 +39,27 @@
     {{ end }}
   </div>
   <h1> Alumni </h1>
+  <h2> PhDs </h2>
   <div class="row">
     {{ range .Pages }}
     {{ if eq .Weight 4 }}
-    <div class="col-12 col-md-3 mb-3 ">{{ .Render "summary" }}</div>
+    <div class="col-12 col-md-3 mb-3 ">{{ .Render "alumni_summary" }}</div>
+    {{ end }}
+    {{ end }}
+  </div>
+    <h2> Masters </h2>
+  <div class="row">
+    {{ range .Pages }}
+    {{ if eq .Weight 5 }}
+    <div class="col-12 col-md-3 mb-3 ">{{ .Render "alumni_summary" }}</div>
+    {{ end }}
+    {{ end }}
+  </div>
+    <h2> Undergraduates </h2>
+  <div class="row">
+    {{ range .Pages }}
+    {{ if eq .Weight 6 }}
+    <div class="col-12 col-md-3 mb-3 ">{{ .Render "alumni_summary" }}</div>
     {{ end }}
     {{ end }}
   </div>

@@ -5,7 +5,7 @@ draft: false
 image: "images/team/satyakam-photo.jpg"
 linkedinurl: "https://www.linkedin.com/"
 jobtitle: "Intern, IITD, 2020-21"
-weight: 4
+weight: 6
 ---
 
 Dashboard applications, INDRA 

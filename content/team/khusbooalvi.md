@@ -6,7 +6,7 @@ image: "images/team/khusbooalvi-photo.jpg"
 jobtitle: "Masters Student, 2020-21"
 weburl: "https://hydrosenselab.github.io/team/"
 linkedinurl: "https://www.linkedin.com/"
-weight: 4
+weight: 5
 ---
 
 LATER

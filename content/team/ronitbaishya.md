@@ -5,7 +5,7 @@ draft: false
 image: "images/team/default.svg"
 jobtitle: "Intern, Jorhat Engineering College, 2020"
 linkedinurl: "https://www.linkedin.com/"
-weight: 4
+weight: 6
 ---
 
 India flood inventory.
