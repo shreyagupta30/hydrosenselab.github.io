@@ -54,13 +54,18 @@ publishDir = "docs"
       weight = 10
 
   [[menu.main]]
+      name = "Blog"
+      url = "/blog/"
+      weight = 12
+
+  [[menu.main]]
       name = "Join"
       url = "/join/"
-      weight = 12
+      weight = 14
 
   [[menu.main]]
       name = "Contact"
       url = "/contact/"
-      weight = 14
+      weight = 16
 
   # Footer Menu

@@ -1,0 +1,4 @@
+baseURL = "https://hydrosense.iitd.ac.in/blog/"
+languageCode = "en-us"
+title = "Blog"
+theme = "anubis"
